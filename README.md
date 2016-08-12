@@ -12,8 +12,8 @@ A [RestEasy](http://resteasy.jboss.org/) example using a lightweight embedded [J
     
 ## run
 
-  java -jar target/reezy.jar
+    java -jar target/reezy.jar
   
 ## inspect
 
-    http://localhost:8080/books
+    [http://localhost:8080/books]
