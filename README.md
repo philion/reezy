@@ -4,10 +4,11 @@ A [RestEasy](http://resteasy.jboss.org/) example using a lightweight embedded [J
 
 ## clone
 
-    git clone ...
+    git clone git@github.com:philion/reezy.git
     
 ## build
 
+    cd reezy
     mvn clean package
     
 ## run
